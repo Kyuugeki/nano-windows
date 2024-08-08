@@ -1,3 +1,10 @@
+The purpose of this repository is to bring the useful tool Nano for Windows systems.
+Some of the code had to be edited in compile time due to incompatibilities of libc libraries with MinGW, so the whole process is not documented for now.
+
+Feel free to adventure yourself in this fun build, or downloading the precompiled .exe from Releases.
+
+Original README as follows:
+
 
           GNU nano -- a simple editor, inspired by Pico
 
